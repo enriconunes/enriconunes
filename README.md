@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="/assets/perfil3.jpg" alt="Perfil de Enrico Nunes" style="width: 200px; height: 200px;"/>
+</div>
+
 <div>
   
   <h1 align="center">
-    Olá! Eu sou o 
+    Olá! Eu sou 
     <a href="https://www.linkedin.com/in/enriconunes/">Enrico Nunes</a>
   </h1>
   
