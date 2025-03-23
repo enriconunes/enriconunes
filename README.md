@@ -7,12 +7,11 @@
   </h1>
   
   <p align="center">
-    Sou estudante do último semestre de Informática na Universidade da Beira Interior, em Portugal, com especialização em Desenvolvimento Web. Com quatro anos de experiência acadêmica e prática, também atuo como Desenvolvedor Web Freelancer.
+    Desenvolvedor Web com graduação em Informática Web pela Universidade da Beira Interior (Portugal).
+          Proeficiência em desenvolvimento full-stack, desde a concepção de landing pages até a criação de sistemas web
+          completos. Domínio em TypeScript, React.js, Next.js, Node.js e bancos de dados (PostgreSQL, MySQL, MongoDB).
+          Expertise em front-end com TailwindCSS e Shadcn, garantindo interfaces de usuário intuitivas e eficientes.
 
-Algumas das minhas habilidades técnicas incluem:
-- TypeScript, React, Next.js, Node.js
-- Tailwind CSS, REST API, Git/Github
-  </p>
   
 </div>
 
